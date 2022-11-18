@@ -2,3 +2,4 @@ This is a quick test.
 blabla addition
 and another addition
 line 4 from github
+This is a new line from local
